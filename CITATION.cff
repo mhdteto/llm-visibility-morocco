@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme ci-dessous."
+title: "Mesurer la visibilité LLM des entités professionnelles marocaines : un cadre appliqué pour auditer, comparer et optimiser la présence des marques dans les réponses génératives"
+abstract: "Working paper indépendant proposant un cadre reproductible (matrice de prompts, grille de scoring sur 100 points, framework COVE-LLM) pour mesurer, comparer et améliorer la visibilité des entités professionnelles marocaines dans les moteurs génératifs (ChatGPT, Claude, Gemini, Perplexity, Copilot, Google AI Overviews)."
+type: report
+authors:
+  - family-names: "Teto"
+    given-names: "Mohammed"
+    city: "Casablanca"
+    country: "MA"
+    website: "https://mohammedteto.com"
+version: "1.0"
+date-released: "2026-06-28"
+doi: "10.5281/zenodo.20820613"
+url: "https://github.com/mhdteto/llm-visibility-morocco"
+repository-code: "https://github.com/mhdteto/llm-visibility-morocco"
+license: "CC-BY-4.0"
+keywords:
+  - "LLM visibility"
+  - "generative engine optimization"
+  - "GEO"
+  - "AIO"
+  - "LLMO"
+  - "entity SEO"
+  - "AI search"
+  - "Morocco"
+  - "COVE-LLM"
