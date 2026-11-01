@@ -1,3 +1,9 @@
+<!-- teto-theme:banner:start -->
+<p align="center">
+  <img src=".github/readme-assets/banner.svg" width="100%" alt="LLM Visibility · Morocco — Visibilité des entités professionnelles marocaines" />
+</p>
+<!-- teto-theme:banner:end -->
+
 # LLM Visibility Morocco
 
 **Recherche appliquée indépendante sur la visibilité des entités professionnelles marocaines dans les moteurs génératifs** (ChatGPT, Claude, Gemini, Perplexity, Copilot, Google AI Overviews).
@@ -9,6 +15,23 @@
 **Licence :** [CC BY 4.0](LICENSE)
 
 ---
+
+<!-- teto-theme:navigation:start -->
+<p>
+  <a href="#démarrage-rapide"><img src=".github/readme-assets/start.svg" width="148" height="36" alt="Démarrer" /></a>
+  <a href="#accès-rapide"><img src=".github/readme-assets/resources.svg" width="148" height="36" alt="Ressources" /></a>
+  <a href="https://github.com/mhdteto"><img src=".github/readme-assets/profile.svg" width="148" height="36" alt="Profil GitHub" /></a>
+</p>
+
+## Accès rapide
+
+| Ressource | Accès |
+| :--- | :--- |
+| Working paper | [Consulter →](paper/visibilite-llm-maroc-recherche-appliquee.md) |
+| Matrice de prompts | [Consulter →](prompts/matrice-prompts.md) |
+| Grille de scoring | [Consulter →](methodology/grille-scoring.md) |
+
+<!-- teto-theme:navigation:end -->
 
 ## De quoi s'agit-il
 
